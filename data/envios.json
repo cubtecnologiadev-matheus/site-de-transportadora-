@@ -1,0 +1,181 @@
+[
+    {
+        "destinatario": "Elias Domingos de Oliveira",
+        "email_destinatario": "cmdomingo191@gmail.com",
+        "telefone_destinatario": "(54) 99951-8319",
+        "cpf_destinatario": "165.397.197-52",
+        "rua_origem": "centro comercial",
+        "numero_origem": "1214",
+        "bairro_origem": "centro",
+        "cep_origem": "85851-210",
+        "cidade_origem": "Foz do Iguacu",
+        "estado_origem": "PR",
+        "endereco_origem": "centro comercial, 1214, centro, CEP: 85851-210",
+        "rua_destino": "Rua independ\u00eancia",
+        "numero_destino": "22",
+        "bairro_destino": "Basalto",
+        "cep_destino": "95320-000",
+        "cidade_destino": "Nova Prata",
+        "estado_destino": "RS",
+        "endereco_destino": "Rua independ\u00eancia, 22, Basalto, CEP: 95320-000",
+        "peso": "0.60",
+        "valor_declarado": "1300.00",
+        "conteudo_declarado": "1 Carregador original\n1 Capinha de prote\u00e7\u00e3o\n1 Pel\u00edcula protetora\n1 C\u00f3pia impressa da Nota Fiscal\nCaixa original do aparelho\nGarantia Apple + suporte direto comigo\nCarn\u00ea de pagamento + c\u00f3pia f\u00edsica da NF",
+        "origem": "Foz do Iguacu\/PR",
+        "destino": "Nova Prata\/RS",
+        "id": "68ddc832eec80",
+        "remessa": "EXP68DDB3F3810C6",
+        "data_criacao": "2025-10-02 00:32:50",
+        "status": "collected",
+        "historico": [
+            {
+                "data": "02\/10\/2025",
+                "hora": "20:06",
+                "descricao": "Envio cadastrado no sistema",
+                "local": "Foz do Iguacu\/PR"
+            },
+            {
+                "data": "02\/10\/2025",
+                "hora": "20:06",
+                "descricao": "Objeto postado",
+                "local": "Foz do Iguacu\/PR"
+            },
+            {
+                "data": "03\/10\/2025",
+                "hora": "15:19",
+                "descricao": "Objeto em transfer\u00eancia",
+                "local": "Foz do Iguacu\/PR para Campo Grande\/MS"
+            },
+            {
+                "data": "09\/10\/2025",
+                "hora": "08:51",
+                "descricao": "Objeto em transfer\u00eancia - por favor aguarde",
+                "local": "Campo Grande\/MS para Curitiba\/PR"
+            }
+        ]
+    },
+    {
+        "destinatario": "joao",
+        "email_destinatario": "email@email.com",
+        "telefone_destinatario": "(11) 92838-3984",
+        "cpf_destinatario": "034.982.748-28",
+        "rua_origem": "julio castilho",
+        "numero_origem": "1929",
+        "bairro_origem": "suzano",
+        "cep_origem": "09598-858",
+        "cidade_origem": "foz do igua\u00e7u",
+        "estado_origem": "PR",
+        "endereco_origem": "julio castilho, 1929, suzano, CEP: 09598-858",
+        "rua_destino": "joao",
+        "numero_destino": "189",
+        "bairro_destino": "bela vista",
+        "cep_destino": "99389-888",
+        "cidade_destino": "antonio nunes",
+        "estado_destino": "AL",
+        "endereco_destino": "joao, 189, bela vista, CEP: 99389-888",
+        "peso": "0600",
+        "valor_declarado": "2550",
+        "conteudo_declarado": "iPhone 15 256gb rosa\r\nCapinha\r\nPelicula\r\nCaixa de carregador bivolt 24w\r\n",
+        "origem": "foz do igua\u00e7u\/PR",
+        "destino": "antonio nunes\/AL",
+        "id": "68ddf85ab4ee2",
+        "remessa": "EXP68DDF85AB4EED",
+        "data_criacao": "2025-10-02 03:58:18",
+        "status": "collected",
+        "historico": [
+            {
+                "data": "02\/10\/2025",
+                "hora": "03:58",
+                "descricao": "Envio cadastrado no sistema",
+                "local": "foz do igua\u00e7u\/PR"
+            },
+            {
+                "data": "02\/10\/2025",
+                "hora": "03:58",
+                "descricao": "Objeto postado",
+                "local": "foz do igua\u00e7u\/PR"
+            },
+            {
+                "data": "02\/10\/2025",
+                "hora": "04:00",
+                "descricao": "Objeito em transferencia",
+                "local": "GOIANIA"
+            },
+            {
+                "data": "02\/10\/2025",
+                "hora": "04:01",
+                "descricao": "Aguardando pagamento para libera\u00e7\u00e3o do objeto",
+                "local": "Centro de Distribui\u00e7\u00e3o"
+            },
+            {
+                "data": "03\/10\/2025",
+                "hora": "18:15",
+                "descricao": "Objeto em transfer\u00eancia",
+                "local": "Campo Grande\/MS"
+            },
+            {
+                "data": "03\/10\/2025",
+                "hora": "18:18",
+                "descricao": "Objeto em transfer\u00eancia",
+                "local": "Foz do Iguacu\/PR para Campo Grande\/MS"
+            }
+        ],
+        "pagamento_pendente": false,
+        "valor_taxa": "200,00"
+    },
+    {
+        "destinatario": "Jos\u00e9 Carlos de G\u00f3es Ara\u00fajo",
+        "email_destinatario": "zinho45@gmail.com",
+        "telefone_destinatario": "(13) 98841-1277",
+        "cpf_destinatario": "064.303.588-52",
+        "rua_origem": "Centro comercial",
+        "numero_origem": "centro comercial, 1214",
+        "bairro_origem": "centro",
+        "cep_origem": "85851-000",
+        "cidade_origem": "Foz do Iguacu , PR",
+        "estado_origem": "PR",
+        "endereco_origem": "Centro comercial, centro comercial, 1214, centro, CEP: 85851-000",
+        "rua_destino": "Rua Valdomiro Mac\u00e1rio",
+        "numero_destino": "245 - Apto 13 D",
+        "bairro_destino": "Concei\u00e7\u00e3ozinha",
+        "cep_destino": "11472-100",
+        "cidade_destino": "Guaruj\u00e1 - SP",
+        "estado_destino": "SP",
+        "endereco_destino": "Rua Valdomiro Mac\u00e1rio, 245 - Apto 13 D, Concei\u00e7\u00e3ozinha, CEP: 11472-100",
+        "peso": "0.600",
+        "valor_declarado": "2850.00",
+        "conteudo_declarado": "1 Carregador original\r\n1 Capinha de prote\u00e7\u00e3o\r\n1 Pel\u00edcula protetora\r\n1 C\u00f3pia impressa da Nota Fiscal\r\nCarn\u00ea de pagamento das parcela.",
+        "origem": "Foz do Iguacu , PR\/PR",
+        "destino": "Guaruj\u00e1 - SP\/SP",
+        "id": "68def3eb1a0f9",
+        "remessa": "EXP68DEF3EB1A103",
+        "data_criacao": "2025-10-02 21:51:39",
+        "status": "collected",
+        "historico": [
+            {
+                "data": "02\/10\/2025",
+                "hora": "21:51",
+                "descricao": "Envio cadastrado no sistema",
+                "local": "Foz do Iguacu , PR\/PR"
+            },
+            {
+                "data": "02\/10\/2025",
+                "hora": "21:51",
+                "descricao": "Objeto postado",
+                "local": "Foz do Iguacu , PR\/PR"
+            },
+            {
+                "data": "03\/10\/2025",
+                "hora": "15:21",
+                "descricao": "Objeto em transfer\u00eancia",
+                "local": "Foz do Iguacu\/PR para Campo Grande\/MS"
+            },
+            {
+                "data": "09\/10\/2025",
+                "hora": "08:49",
+                "descricao": "Objeto em transfer\u00eancia - por favor aguarde",
+                "local": "Campo Grande\/MS para Goi\u00e2nia\/GO"
+            }
+        ]
+    }
+]
